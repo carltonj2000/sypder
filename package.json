@@ -1,0 +1,14 @@
+{
+  "name": "spyder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlton Joseph <carlton.joseph@gmail.com> (http://carltonjoseph.com/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jsdom": "15.2.1",
+    "node-fetch": "2.6.0"
+  }
+}
